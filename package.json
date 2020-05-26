@@ -1,0 +1,22 @@
+{
+  "name": "sneakerstore-vue.js-tailwindcss",
+  "version": "1.0.0",
+  "description": "sneaker store built in vue.js style with tailwind ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "Kevin Deal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss#readme"
+}
