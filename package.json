@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss#readme",
   "dependencies": {
     "@tailwindcss/ui": "^0.3.0",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11"
   }
 }
