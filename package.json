@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss/issues"
   },
-  "homepage": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss#readme"
+  "homepage": "https://github.com/kevindeal/sneakerstore-vue.js-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
 }
